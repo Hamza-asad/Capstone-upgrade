@@ -1,0 +1,81 @@
+
+Project number: 23, Project name: qwe,  Building type: q, Address: q, ERF number: 23, FEE: 123.0, Amount paid: 12.0, Deadline: q
+Project number: 23
+Project name: qwe
+Type of building: q
+Project address: q
+ERF number: 23
+Project cost: 123.0
+Amount paid: 12.0
+Project deadline date : q
+
+
+Project number: 12
+Project name: q
+Type of building: q
+Project address: q
+ERF number: 234
+Project cost: 567.0
+Amount paid: 56.0
+Project deadline date : q
+
+
+Project number: 23
+Project name: t
+Type of building: t
+Project address: t
+ERF number: 67
+Project cost: 789.0
+Amount paid: 78.0
+Project deadline date : t
+
+
+Project number: 123
+Project name: hamzas
+Type of building: hpuse
+Project address: 55 tyler road
+ERF number: 34
+Project cost: 1000.0
+Amount paid: 100.0
+Project deadline date : 22-07-2019
+
+
+Project number: 123
+Project name: q
+Type of building: q
+Project address: q
+ERF number: 567
+Project cost: 1234.0
+Amount paid: 123.0
+Project deadline date : q
+
+
+Project number: 1234
+Project name: a
+Type of building: a
+Project address: a
+ERF number: 12345
+Project cost: 123.0
+Amount paid: 12.0
+Project deadline date : 12/08/2020
+
+
+Project number: 123
+Project name: q
+Type of building: q
+Project address: q
+ERF number: 567
+Project cost: 12345.0
+Amount paid: 123.0
+Project deadline date : 12/09/2020
+
+
+Project number: 189
+Project name: q
+Type of building: q
+Project address: q
+ERF number: 765
+Project cost: 1900000.0
+Amount paid: 199999.0
+Project deadline date : 12/06/2020
+
